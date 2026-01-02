@@ -1,0 +1,1 @@
+const util_2q4x = (d: any) => d;
